@@ -1,0 +1,1 @@
+I used 'git merge' to merge the master with the test branch. There was a merge conflict with the README file, so I resolved it and merged the branches.
